@@ -1,3 +1,3 @@
-# lukaszpolowczyk.github.io
+# lukaszpolowczyk.github.io/addons/
 
-Łukasz Polowczyk
+Addons - Łukasz Polowczyk
