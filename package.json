@@ -5,7 +5,8 @@
   "homepage": "https://lukaszpolowczyk.github.io/addons",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d ../addons-gh-page"
+    "predeploy": "rsync -av --progress . build --exclude build --exclude node_modules --exclude .git --exclude package-lock.json --exclude package.json --exclude .gitignore --exclude .vscode",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
