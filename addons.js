@@ -10,7 +10,7 @@ window.addons = [
 		users: "1200",
 		usersState: "over",
 		amoLink: "https://addons.mozilla.org/firefox/addon/best-theme-like-google-materia/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/best-theme-like-google-materia/platform:2/addon-661554-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/google_material_design_paper_theme_best_theme-1.2.0-fx.xpi",
 		id: "besttheme"
 	},
 	{
@@ -19,7 +19,7 @@ window.addons = [
 		users: "400",
 		usersState: "over",
 		amoLink: "https://addons.mozilla.org/firefox/addon/mini-audio-icon-of-tab-noise-c/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/mini-audio-icon-of-tab-noise-c/platform:2/addon-661828-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/mini_audio_icon_of_tab_noise_control-1.2-fx.xpi",
 		id: "AudioTabIcon"
 	},
 	{
@@ -28,7 +28,7 @@ window.addons = [
 		users: "300",
 		usersState: "over",
 		amoLink: "https://addons.mozilla.org/firefox/addon/right-mouse-mouse-wheel-zoom-p/",
-		installLink: /*"addons/mssp.xpi"*/ "https://addons.mozilla.org/firefox/downloads/latest/right-mouse-mouse-wheel-zoom-p/platform:2/addon-665486-latest.xpi?src=dp-btn-primary",
+		installLink: /*"addons/mssp.xpi"*/ "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/right_mouse_mouse_wheel_zoom_page-1.2.0-fx.xpi",
 		id: "MouseScrollScalePage"
 	},
 	{
@@ -37,7 +37,7 @@ window.addons = [
 		users: "100",
 		usersState: "over",
 		amoLink: "https://addons.mozilla.org/firefox/addon/hidden-ui-elements/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/hidden-ui-elements/platform:2/addon-660078-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/hidden_ui_elements-1.0.84-fx.xpi",
 		id: "HiddenUIElements"
 	},
 	{
@@ -46,7 +46,7 @@ window.addons = [
 		users: "100",
 		usersState: "under",
 		amoLink: "https://addons.mozilla.org/firefox/addon/best-search-ultimate/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/best-search-ultimate/platform:2/addon-656368-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/search_panel_in_context_menu-2.0.26-fx.xpi",
 		id: "bestsearch"
 	},
 	{
@@ -55,7 +55,7 @@ window.addons = [
 		users: "100",
 		usersState: "under",
 		amoLink: "https://addons.mozilla.org/firefox/addon/bookmarks-menu-in-the-context-/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/bookmarks-menu-in-the-context-/platform:2/addon-662358-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/single_star_button_without_bookmarks_menu_button-1.1.17-fx.xpi",
 		id: "bookmarksmenuOneIcon"
 	},
 	{
@@ -64,7 +64,7 @@ window.addons = [
 		users: "100",
 		usersState: "under",
 		amoLink: "https://addons.mozilla.org/firefox/addon/tabs-features/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/tabs-features/platform:2/addon-664362-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/tabs_features_in_one_button-1.1.72-fx.xpi",
 		id: "TabsFeatures"
 	},
 	{
@@ -73,7 +73,7 @@ window.addons = [
 		users: "100",
 		usersState: "under",
 		amoLink: "https://addons.mozilla.org/firefox/addon/feed-rss-mini-icon-on-bookmars/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/feed-rss-mini-icon-on-bookmars/platform:2/addon-662386-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/feed_rss_mini_icon_on_bookmars_button-1.0.61-fx.xpi",
 		id: "FeedMiniIcon"
 	},
 	{
@@ -82,7 +82,7 @@ window.addons = [
 		users: "100",
 		usersState: "under",
 		amoLink: "https://addons.mozilla.org/firefox/addon/bestreload/",
-		installLink: "https://addons.mozilla.org/firefox/downloads/latest/bestreload/platform:2/addon-355201-latest.xpi?src=dp-btn-primary",
+		installLink: "https://github.com/lukaszpolowczyk/addons/raw/master/legacy/reload_when_middleclick_on_urlbar_best_reload_plus-2.0.24-fx.xpi",
 		id: "bestreload"
 	}
 ];
