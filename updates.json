@@ -1,0 +1,11 @@
+{
+  "addons": {
+    "CvanuxWEE@LukaszPolowczyk": {
+      "updates": [
+      	{ "version": "1.5",
+          "update_link": "https://lukaszpolowczyk.github.io/addons/files/cvanux_wee-1.5.zip"
+			}
+      ]
+    }
+  }
+}

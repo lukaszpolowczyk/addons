@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "predeploy": "rsync -av --progress . build --exclude build --exclude node_modules --exclude .git --exclude package-lock.json --exclude package.json --exclude .gitignore --exclude .vscode",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "open index.html": "firefox-x file:///${workspaceRoot}/index.html"
   },
   "author": "",
   "license": "ISC",
