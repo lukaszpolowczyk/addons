@@ -154,7 +154,7 @@ body {
 	padding: 20px;
 	box-sizing: border-box;
 	height: 100%;
-	background-repeat: no-repeat; 
+	background-repeat: no-repeat;
 	transition-property: left;
 	transition-duration: 600ms;
 	position: relative;
@@ -211,7 +211,7 @@ body {
 
 .donate-slide {
 	background: white;
-
+	
 	display: none;
 	opacity: 0;
 	bottom: 0;
@@ -238,7 +238,7 @@ body {
 
 .donate-options {
 	display: flex;
-
+	
 	-moz-user-select: none;
 	user-select: none;
 }
@@ -484,11 +484,11 @@ addon-pan .install {
 	color: rgba(171, 99, 6, 0.9);/*#393939;*/
 	/*text-shadow: rgb(51, 51, 51, .4) 1px 1px 0px;*/
 }
-
+ 
  .donate:hover .donate-types {
 	 color: rgba(171, 123, 62, 0.9);/*#7e7e7e;*/
  }
-
+ 
 .donate-descript {
 	font-family: "Arial Bold";
 	font-weight: bold;
@@ -659,7 +659,7 @@ addon-pan .install {
 	.slides {
 		height: calc( 100% - 12px - 29px - 222px - 222px );
 	}
-	.slides[donate-mode="true"] { 
+	.slides[donate-mode="true"] {
 		min-height: 568px;
 	}
 	
@@ -703,7 +703,7 @@ addon-pan .install {
 	.sidebar.sid-inside {
 				flex-direction: column;
 	}
-
+	
 	.ad1 {
 		width: calc( 100% - 24px ) !important;
 		min-width: calc( 100% - 24px ) !important;
