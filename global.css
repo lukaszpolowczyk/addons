@@ -64,7 +64,7 @@ body {
 	font-family: "Open Sans";
 	font-style: normal;
 	font-weight: 400;
-	src: local("Open Sans"), local("OpenSans"), url("https://addons.mozilla.org/impala/fonts/OpenSans-Regular.ttf?629a55a") format("truetype");
+	src: local("Open Sans"), local("OpenSans");
 }
 
 .bigtitle-addons {
